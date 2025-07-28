@@ -25,9 +25,9 @@ Before installing, ensure you have the following installed on your system:
   * **Node.js & npm (or Yarn):** Essential for `mason.nvim` to install language servers, particularly `tsserver`.
       * [Node.js Downloads](https://nodejs.org/en/download/)
   * **Lazygit:** For the integrated Git TUI experience.
-      * [Lazygit Installation](https://www.google.com/search?q=https://github.com/jesseduffield/lazygit%23installation)
+      * [Lazygit Installation](https://github.com/jesseduffield/lazygit?tab=readme-ov-file#installation)
   * **A Nerd Font:** For proper display of file icons and other symbols.
-      * [Nerd Fonts](https://www.google.com/search?q=https://www.nerdfonts.com/downloads)
+      * [Nerd Fonts](https://www.nerdfonts.com/font-downloads)
   * **Windows Terminal (for transparency):** If you wish to enable background transparency.
       * [Windows Terminal Installation](https://learn.microsoft.com/en-us/windows/terminal/install)
 
